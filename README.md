@@ -3,6 +3,7 @@ A simple script that I use to remind myself to rest my eyes every 20mins (20-20-
 
 ## Install
 Clone this repo. Install dependencies:
+
     pip install pync
 
 ## Usage
